@@ -1,4 +1,5 @@
 Practicallab2
+
 Machine Learning Project2
 
 Iris Dataset Classification 🏵️
@@ -68,12 +69,8 @@ Confusion Matrix
 
 ROC Curve & AUC
 
-4. Evaluation Results
-Model	Accuracy	Precision	Recall	F1-Score	Notes
-Logistic Regression	0.97	0.97	0.97	0.97	Stable, works well for linearly separable classes
-Decision Tree	0.96	0.96	0.96	0.96	Captures non-linear patterns
-kNN	0.96	0.96	0.96	0.96	Sensitive to feature scaling
-5. Insights & Next Steps
+
+4. Insights & Next Steps
 
 EDA guided preprocessing: Standardization improved kNN performance
 
