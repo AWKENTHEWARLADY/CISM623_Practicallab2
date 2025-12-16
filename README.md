@@ -1,6 +1,8 @@
-# CISM623_Practicallab2
+Practicallab2
 Machine Learning Project2
+
 Iris Dataset Classification 🏵️
+
 Overview
 
 This project demonstrates exploratory data analysis (EDA), preprocessing, and classification of the Iris dataset using Python and scikit-learn. The goal is to understand the dataset, apply preprocessing techniques, train multiple machine learning models, and evaluate their performance.
